@@ -10,6 +10,11 @@
       "StackName": "amplify-socialpilot-staging-81233",
       "StackId": "arn:aws:cloudformation:us-east-1:359486832732:stack/amplify-socialpilot-staging-81233/47b2d7f0-d6ae-11ed-9d50-129b8b4c46e5",
       "AmplifyAppId": "dl1tg60qd9p0l"
+    },
+    "categories": {
+      "auth": {
+        "socialPilot": {}
+      }
     }
   }
 }

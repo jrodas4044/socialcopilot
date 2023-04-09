@@ -1,4 +1,8 @@
 import './globals.css'
+import { Amplify } from 'aws-amplify';
+
+import '@aws-amplify/ui-react/styles.css';
+
 
 export const metadata = {
   title: 'Create Next App',
